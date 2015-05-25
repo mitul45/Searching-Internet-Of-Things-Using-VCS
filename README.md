@@ -1,4 +1,4 @@
 # Searching Internet of Things Using VCS
 Due to proliferation of WSN applications in real world, we are having smart devices everywhere. Our future will be full of these sensor objects. Internet of Things (IoT) is going to be future of today's Internet. Searching in such environment is necessary and challenging as user wants to operate an object locally or remotely. However, unlike web which is built of static documents, sensor reading possesses very short life span and real world entities are highly dynamic also. This implies traditional search techniques of web do not work in IoT. In this paper we present a novel idea of using Virtual Coordinate System (VCS) for searching in IoT. VCS approach has been used in Peer-to-Peer networks. The proposed mechanism is energy efficient and uses multiple features like memory, computation cost, etc. to find the optimal result as per user's requirement.
 
-This repo contains a copy of my [published research paper](http://dl.acm.org/citation.cfm?id=2490437&dl=ACM&coll=DL) on ACM Digital Library.
+This repo contains a copy of [published research paper](http://dl.acm.org/citation.cfm?id=2490437&dl=ACM&coll=DL).
